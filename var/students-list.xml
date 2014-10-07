@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<students>
-    <student>
-        <firstname>Student1</firstname>
+<stu>
+    <studentsme>Student1</firstname>
         <lastname>Student1</lastname>
         <email>student@uek.krakow.pl</email>
         <github>studuek</github>
         <group>jkanclerz</group>
+    </student>
+        <firstname>Pawel</firstname>
+        <lastname>Data</lastname>
+        <email>data250@gmail.com</email>
+        <github>data250</github>
+        <group>KrDzIs3011io</group>
     </student>
     <student>
         <firstname>Jakub</firstname>
